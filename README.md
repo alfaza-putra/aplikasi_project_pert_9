@@ -217,7 +217,8 @@ Maka langsung saja kita buka `activity_main.xml`, dan buat code seperti berikut 
 ```
 - Maka tampilannya akan seperti ini :
   
-![Hasil run](https://github.com/alfaza-putra/aplikasi_project_pert_9/assets/129705943/01b8c19e-7aa3-459e-bc85-f0d731cbf630)
+![Hasil run](https://github.com/alfaza-putra/aplikasi_project_pert_9/assets/129705943/e941d89f-f83f-41ce-abed-4be601f3e65a)
+
 
 
 - Setelah itu kita buka `MainActivity.java` untuk menambahkan code intent untuk masing-masing tombol :
@@ -987,4 +988,4 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 ## Hasil Run 
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
 
-https://github.com/alfaza-putra/aplikasi_project_pert_9/assets/129705943/5f97160e-a8f8-44cc-bfcd-043ec793e311
+https://github.com/alfaza-putra/aplikasi_project_pert_9/assets/129705943/06120561-515a-45df-a444-a23551dd4d89
